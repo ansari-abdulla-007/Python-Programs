@@ -1,0 +1,4 @@
+print()
+len()
+type()
+range()
