@@ -1,0 +1,6 @@
+vegetables = ("carrot","potato","onion")
+y = list(vegetables)
+y.remove("potato")
+vegetables = tuple(y)
+print(vegetables)
+print(type(vegetables))

@@ -1,0 +1,5 @@
+var1 = ("Abduu",18,True,)
+print(type(var1))
+print(type(var1[0]))
+print(type(var1[1]))
+print(type(var1[2]))
